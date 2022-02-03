@@ -1,0 +1,28 @@
+*{
+    background-color:#004d99; 
+    margin-top: 30px;
+     margin-left: 50px; 
+     margin-right: 50px ;
+     margin-bottom: 40px;
+}
+
+.caja{
+    border: 1px solid black;
+}
+.caja h1{
+    text-align: center;
+    font-size: 400%;
+}
+
+.caja p{
+    text-align: center;
+     margin-right: 50px; 
+     margin-left: 50px; 
+     font-size: 150%;
+     color: aliceblue;
+}
+#img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
